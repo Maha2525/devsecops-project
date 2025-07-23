@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: yelp-camp-container
-          image: maha2525/campproj:dev
+          image: maha2525/newcampproj:dev
           ports:
             - containerPort: 3000
 
