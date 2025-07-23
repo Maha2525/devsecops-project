@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: yelp-camp-container
-          image: shaikmustafa/finalround:staging-v1
+          image: maha2525/campproj:dev
           ports:
             - containerPort: 3000
 
